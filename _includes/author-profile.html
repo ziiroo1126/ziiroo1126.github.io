@@ -5,7 +5,11 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    {% if author.avatar %}
+      <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    {% else %}
+      <div class="author__avatar-placeholder" aria-label="{{ author.name }}">ZW</div>
+    {% endif %}
   </div>
 
   <div class="author__content">
@@ -67,6 +71,10 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
+      {% if author.cv %}
+        <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Curriculum Vitae</a></li>
+      {% endif %}
+      <li class="author__updated"><i class="fas fa-fw fa-clock" aria-hidden="true"></i> Last updated: {{ site.time | date: "%B %-d, %Y" }}</li>
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
@@ -161,6 +169,9 @@
       {% endif %}
       {% if author.github %}
         <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.cv %}
+        <a href="{{ author.cv }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.stackoverflow %}
         <a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i></a>

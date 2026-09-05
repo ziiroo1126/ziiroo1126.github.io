@@ -2,15 +2,11 @@
 ---
 
 /*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
+ * Academic Pages template
+ * Based on Minimal Mistakes
+ */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -48,52 +44,54 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    
 
-    .paper-box-image{
+    .paper-box-image {
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
+
         img {
+            width: 100%;
             max-width: 400px;
+            aspect-ratio: 5 / 3;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
+            object-position: top;
         }
     }
-    
-    .paper-box-text{
+
+    .paper-box-text {
         max-width: 100%;
         order: 1;
     }
-    
+
     @include breakpoint($medium) {
-        .paper-box-image{
+        .paper-box-image {
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
             order: 1;
         }
-        
-        .paper-box-text{
+
+        .paper-box-text {
             justify-content: left;
             padding-left: 2em;
             max-width: 60%;
             order: 2;
         }
-
     }
-
-
 }
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
+$scroll_offset: 2em;
+
+h1:before,
+.anchor:before {
+    content: "";
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
     margin-top: -$scroll_offset;
 }
 
@@ -106,4 +104,38 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+.pub-note {
+    margin-top: -.5em;
+    color: #8e959a;
+    font-size: .85em;
+}
+
+.author__updated {
+    margin-top: 1em;
+    color: #7a8288;
+    font-size: .85em;
+}
+
+.author__avatar-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 75px;
+    color: #fff;
+    font-size: 1.6em;
+    font-weight: bold;
+    letter-spacing: .04em;
+    background: #224b8d;
+
+    @include breakpoint($large) {
+        width: 100%;
+        max-width: 175px;
+        height: 175px;
+        padding: 5px;
+        border: 1px solid $border-color;
+        font-size: 2.5em;
+    }
 }
