@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "AI agents for scientific discovery, post-training, agent data, and evaluation."
+excerpt: "Coding agent post-training, agent data, and training-evaluation loops for long horizon tasks and scientific discovery."
 author_profile: true
 redirect_from:
   - /about/
@@ -14,7 +14,7 @@ redirect_from:
 
 My name is **Zirui Wang (王 子睿)**. I am an **AI Algorithm Engineer at** [**Valhalla Technology**](https://www.valhalla.science/), where I develop scientific agent systems and models for biomedical science. I received my M.S. in Theoretical and Computational Chemistry from [Zhejiang University](https://www.zju.edu.cn/), advised by [Prof. Linjun Wang](https://person.zju.edu.cn/linjunwang), and my B.S. in Chemistry (National Class of Foundational Theory) from [Lanzhou University](https://www.lzu.edu.cn/index.htm).
 
-I am interested in **long horizon agents for real world tasks and scientific discovery**. My focus is on **post-training**, **agent data**, and **evaluation**. Drawing on my background in computational chemistry and scientific machine learning, I aim to build agents that can reason about scientific problems, write and execute code, and use specialized tools to support biomedical research.
+I am interested in **long horizon agents for real world tasks and scientific discovery**. My focus is on **post-training**, **agent data**, and **evaluation**. Drawing on my background in computational chemistry and scientific machine learning, I aim to build agents that can reason about scientific problems, write and execute code, and use specialized tools with traceable decisions.
 
 Contact: [wangzr0@zju.edu.cn](mailto:wangzr0@zju.edu.cn) · [wangzr519@gmail.com](mailto:wangzr519@gmail.com)
 
@@ -22,6 +22,7 @@ Contact: [wangzr0@zju.edu.cn](mailto:wangzr0@zju.edu.cn) · [wangzr519@gmail.com
 
 # News
 
+- *2026.09* Released [**ALPD — Agentic Loop for Protein Design**](https://github.com/ziiroo1126/Agentic-Loop-for-Protein-Design), with structural feedback and traceable agent decisions. [Project Page](https://ziiroo1126.github.io/Agentic-Loop-for-Protein-Design/)
 - *2026.08* Our work [ABLE](https://arxiv.org/abs/2606.07524) was accepted to the main conference of **EMNLP 2026**.
 - *2026.08* We released [EpiBench](https://arxiv.org/abs/2608.06022), together with its 1,609-sample benchmark on [Hugging Face](https://huggingface.co/datasets/oteam/EpiBench).
 - *2026.03* Joined **Valhalla Technology** as an AI Algorithm Engineer.
@@ -72,15 +73,17 @@ Contact: [wangzr0@zju.edu.cn](mailto:wangzr0@zju.edu.cn) · [wangzr519@gmail.com
 
 # Experience
 
-- **AI Algorithm Engineer, [Valhalla Technology](https://www.valhalla.science/)**
-- **Algorithm Engineer, Zhejiang University - Blockchain and Data Security Research Institute**
-- **Ads Algorithm Engineer Intern, ByteDance**
+- **AI Algorithm Engineer, [Valhalla Technology (Startup)](https://www.valhalla.science/)** · *Mar. 2026 – Present*<br>
+
+- **Algorithm Engineer, Zhejiang University — Blockchain and Data Security Research Institute** · *Jul. 2025 – Mar. 2026*<br>
+
+- **Ads Algorithm Engineer Intern, ByteDance** · *Jan. 2025 – Mar. 2025*<br>
 
 <span class="anchor" id="open-source"></span>
 
 # Open-Source Projects
 
-- **[MolClaw](https://github.com/ziiroo1126/MolClaw)** · Core Developer · *2026*
+- **[ALPD — Agentic Loop for Protein Design](https://github.com/ziiroo1126/Agentic-Loop-for-Protein-Design)** · Core Developer · *2026* · [Project Page](https://ziiroo1126.github.io/Agentic-Loop-for-Protein-Design/)
 
 - **[EpiBench](https://huggingface.co/datasets/oteam/EpiBench)** · Lead / First Author · *2026* · [Project Page](https://ziiroo1126.github.io/EpiBench/) · [Code](https://github.com/ziiroo1126/EpiBench)
 

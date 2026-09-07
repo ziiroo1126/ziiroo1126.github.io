@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zirui Wang"
-description              : "AI agents for scientific discovery, post-training, agent data, and evaluation."
+description              : "Coding agent post-training, agent data, and training-evaluation loops for scientific discovery."
 url                      : "https://ziiroo1126.github.io"
 baseurl                  : ""
 repository               : "ziiroo1126/ziiroo1126.github.io"
