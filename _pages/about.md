@@ -23,7 +23,7 @@ Contact: [wangzr0@zju.edu.cn](mailto:wangzr0@zju.edu.cn) · [wangzr519@gmail.com
 # News
 
 - *2026.09* Released [**ALPD — Agentic Loop for Protein Design**](https://github.com/ziiroo1126/Agentic-Loop-for-Protein-Design), with structural feedback and traceable agent decisions. [Project Page](https://ziiroo1126.github.io/Agentic-Loop-for-Protein-Design/)
-- *2026.08* Our work [ABLE](https://arxiv.org/abs/2606.07524) was accepted to the main conference of **EMNLP 2026**.
+- *2026.08* Our work [ABLE](https://arxiv.org/abs/2606.07524) was accepted to the main conference of **EMNLP 2026** as an **Oral** presentation.
 - *2026.08* We released [EpiBench](https://arxiv.org/abs/2608.06022), together with its 1,609-sample benchmark on [Hugging Face](https://huggingface.co/datasets/oteam/EpiBench).
 - *2026.03* Joined **Valhalla Technology** as an AI Algorithm Engineer.
 - *2025.07* Completed my M.S. degree at **Zhejiang University**.
@@ -37,14 +37,14 @@ Contact: [wangzr0@zju.edu.cn](mailto:wangzr0@zju.edu.cn) · [wangzr519@gmail.com
 
 ## Conference Papers
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">EMNLP 2026 Main</div><img src="images/able.png" alt="ABLE paper" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">EMNLP 2026 Oral</div><img src="images/able.png" alt="ABLE paper" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [ABLE: Representing and Mapping LLMs via Attribution-Based Large-model Embedding](https://arxiv.org/abs/2606.07524)
 
 **<u>Zirui Wang</u>**, Yusen Hou, Shaofeng Liang, Bowen Tian, Yanlin Zhang, Wenshuo Chen, Yutao Yue
 
-*Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing.* **Main Conference, to appear.**
+*Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing.* **Main Conference, Oral, to appear.**
 
 [Paper](https://arxiv.org/abs/2606.07524) · [PDF](paper/ABLE_EMNLP.pdf) · [Project Page](https://ziiroo1126.github.io/ABLE/) · [Code](https://github.com/ziiroo1126/ABLE)
 
