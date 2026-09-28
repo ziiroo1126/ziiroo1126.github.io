@@ -44,7 +44,7 @@ Contact: [wangzr0@zju.edu.cn](mailto:wangzr0@zju.edu.cn) · [wangzr519@gmail.com
 
 **<u>Zirui Wang</u>**, Yusen Hou, Shaofeng Liang, Bowen Tian, Yanlin Zhang, Wenshuo Chen, Yutao Yue
 
-*Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing.* **Main Conference, Oral, to appear.**
+*Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing.* **Main Conference, Oral.**
 
 [Paper](https://arxiv.org/abs/2606.07524) · [PDF](paper/ABLE_EMNLP.pdf) · [Project Page](https://ziiroo1126.github.io/ABLE/) · [Code](https://github.com/ziiroo1126/ABLE)
 
