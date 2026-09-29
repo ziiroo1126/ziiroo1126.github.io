@@ -57,7 +57,7 @@ Contact: [wangzr0@zju.edu.cn](mailto:wangzr0@zju.edu.cn) · [wangzr519@gmail.com
 
 [A world model simulates the latent dynamics of human health](https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v2.full)
 
-**<u>Zirui Wang</u>**, Odin Zhang, Jiaqi Wang, Yijia Jiang, Zijian Carl Ma, Minghao Guo, Saleem Al Dajani, Alec Eames, Alibek Moldakozhayev, Jesse R. Poganik, Mahdi Moqri, Dane Gobel, Ranran Zhai, Alina Isakova, Yingcheng Wu, Zhenfei Yin, Le Cong, Hannele Ruohola-Baker, James Zou, Michael P. Snyder, Vadim N. Gladyshev, Tony Wyss-Coray, and Kejun Ying
+**<u>Zirui Wang*</u>**, Odin Zhang*, Jiaqi Wang, Yijia Jiang, Zijian Carl Ma, Minghao Guo, Saleem Al Dajani, Alec Eames, Alibek Moldakozhayev, Jesse R. Poganik, Mahdi Moqri, Dane Gobel, Ranran Zhai, Alina Isakova, Yingcheng Wu, Zhenfei Yin, Le Cong, Hannele Ruohola-Baker, James Zou, Michael P. Snyder, Vadim N. Gladyshev, Tony Wyss-Coray, and Kejun Ying
 
 *medRxiv preprint 2026.09.19.26363460 (v2), 2026.*
 
