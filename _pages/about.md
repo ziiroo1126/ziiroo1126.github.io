@@ -78,6 +78,32 @@ Contact: [wangzr0@zju.edu.cn](mailto:wangzr0@zju.edu.cn) · [wangzr519@gmail.com
 
 </div></div>
 
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2026</div><img src="images/admet-evo.png" alt="ADMET-EvO paper" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[ADMET-EvO: a self-evolving scientific agent for sustained research across heterogeneous tasks](https://arxiv.org/abs/2609.10121)
+
+Yiling Zhou, Yilin Wang, Jianmin Wang, Heqin Zhu, **<u>Zirui Wang</u>**, Chang-yu Hiesh, Kejun Ying, Jiaqi Wang, Yuzhi Xu, Tingjun Hou, Odin Zhang
+
+*arXiv preprint arXiv:2609.10121, 2026.*
+
+[Paper](https://arxiv.org/abs/2609.10121)
+
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2026</div><img src="images/nanoresearch.png" alt="NanoResearch paper" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[Co-Evolving Skills, Memory, and Policy for Personalized Research Automation](https://openreview.net/forum?id=VHnY0nzXxv)
+
+Jinhang Xu, Qiyuan Zhu, Yujun Wu, **<u>Zirui Wang</u>**, Dongxu Zhang, Marcia Tian, Yiling Duan, Siyuan Li, Jingxuan Wei, Sirui Han, Yike Guo, Odin Zhang, Conghui He, Cheng Tan
+
+*arXiv preprint arXiv:2605.10813, 2026.*
+
+[OpenReview](https://openreview.net/forum?id=VHnY0nzXxv) · [arXiv](https://arxiv.org/abs/2605.10813)
+
+</div></div>
+
 ## Journal Articles
 
 - **Ion Migration in Lead-Halide Perovskites: Cation Matters.** Kai Niu, Chenyang Wang, Jiejun Zeng, **Zirui Wang**, Yang Liu, Linjun Wang, Cheng Li, Yizheng Jin. *The Journal of Physical Chemistry Letters*, 2024. [[DOI]](https://doi.org/10.1021/acs.jpclett.3c03451)
