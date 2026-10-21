@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ZR">
+  <title>ZR</title>
+  <circle cx="256" cy="256" r="256" fill="#0d47a1"/>
+  <path fill="#fff" d="M97 132h141v38l-90 168h90v38H92v-38l91-168H97z"/>
+  <path fill="#fff" fill-rule="evenodd" d="M268 132h67c49 0 75 26 75 69 0 33-14 55-39 66l49 109h-44l-44-101h-25v101h-39zM307 170v67h26c26 0 39-12 39-34s-13-33-39-33z"/>
+</svg>

@@ -53,16 +53,16 @@ Contact: [wangzr0@zju.edu.cn](mailto:wangzr0@zju.edu.cn) · [wangzr519@gmail.com
 
 ## Preprints
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">medRxiv 2026</div><img src="images/healthflux-v2.png" alt="HealthFlux medRxiv v2 paper first page" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">medRxiv 2026</div><img src="images/healthflux-v3.png" alt="HealthFlux medRxiv v3 paper first page" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
-[A world model simulates the latent dynamics of human health](https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v2.full)
+[A world model simulates the latent dynamics of human health](https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v3.full)
 
-**<u>Zirui Wang*</u>**, Odin Zhang*, Jiaqi Wang, Yijia Jiang, Zijian Carl Ma, Minghao Guo, Saleem Al Dajani, Alec Eames, Alibek Moldakozhayev, Jesse R. Poganik, Mahdi Moqri, Dane Gobel, Ranran Zhai, Alina Isakova, Yingcheng Wu, Zhenfei Yin, Le Cong, Hannele Ruohola-Baker, James Zou, Michael P. Snyder, Vadim N. Gladyshev, Tony Wyss-Coray, and Kejun Ying
+**<u>Zirui Wang*</u>**, Odin Zhang*, Jiaqi Wang, Yijia Jiang, Zijian Carl Ma, Minghao Guo, Saleem Al Dajani, Alec Eames, Alibek Moldakozhayev, Jesse R. Poganik, Mahdi Moqri, Dane Gobel, Ranran Zhai, Alina Isakova, Yingcheng Wu, Zhenfei Yin, Le Cong, George Slavich, Wojciech Matusik, Hannele Ruohola-Baker, James Zou, Michael P. Snyder, Vadim N. Gladyshev, Tony Wyss-Coray, and Kejun Ying
 
-*medRxiv preprint 2026.09.19.26363460 (v2), 2026.*
+*medRxiv preprint 2026.09.19.26363460 (v3), 2026.*
 
-[Paper](https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v2.full) · [DOI](https://doi.org/10.64898/2026.09.19.26363460) · [中文报道](https://mp.weixin.qq.com/s/38w8v6APEdd8hQCnelgBoQ)
+[Paper](https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v3.full) · [DOI](https://doi.org/10.64898/2026.09.19.26363460) · [中文报道](https://mp.weixin.qq.com/s/38w8v6APEdd8hQCnelgBoQ)
 
 </div></div>
 
