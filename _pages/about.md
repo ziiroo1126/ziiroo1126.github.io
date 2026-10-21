@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Coding agent post-training, agent data, and training-evaluation loops for long horizon tasks and scientific discovery."
+excerpt: "AI and Agents for biomedical science"
 author_profile: true
 redirect_from:
   - /about/
@@ -12,9 +12,9 @@ redirect_from:
 
 # About Me
 
-My name is **Zirui Wang (王 子睿)**. I am an **AI Algorithm Engineer at** [**Valhalla Technology**](https://www.valhalla.science/), where I develop scientific agent systems and models for biomedical science. I received my M.S. in Theoretical and Computational Chemistry from [Zhejiang University](https://www.zju.edu.cn/), advised by [Prof. Linjun Wang](https://person.zju.edu.cn/linjunwang), and my B.S. in Chemistry (National Class of Foundational Theory) from [Lanzhou University](https://www.lzu.edu.cn/index.htm).
+My name is **Zirui Wang (王 子睿)**. I am a **Visiting Scholar at** <a class="entity-mention entity-mention--stanford" href="https://lab.kejunying.com/#people"><span class="entity-icon entity-icon--stanford" aria-hidden="true"><img src="{{ '/images/logos/stanford.png' | relative_url }}" alt=""></span>Stanford University</a>, working primarily on **AI for aging and longevity** under the supervision of [Kejun Ying](https://kejunying.com/). I am also an **AI Algorithm Engineer at** [**Valhalla Technology**](https://www.valhalla.science/), where I develop scientific agent systems and models for biomedical science. I received my M.S. in Theoretical and Computational Chemistry from <a class="entity-mention entity-mention--zhejiang" href="https://www.zju.edu.cn/"><span class="entity-icon entity-icon--zhejiang" aria-hidden="true"><img src="{{ '/images/logos/zhejiang.png' | relative_url }}" alt=""></span>Zhejiang University</a>, advised by [Prof. Linjun Wang](https://person.zju.edu.cn/linjunwang), and my B.S. in Chemistry (National Class of Foundational Theory) from <a class="entity-mention entity-mention--lanzhou" href="https://www.lzu.edu.cn/index.htm"><span class="entity-icon" aria-hidden="true"><img src="{{ '/images/logos/lanzhou.svg' | relative_url }}" alt=""></span>Lanzhou University</a>.
 
-I am interested in **long horizon agents for real world tasks and scientific discovery**. My focus is on **post-training**, **agent data**, and **evaluation**. Drawing on my background in computational chemistry and scientific machine learning, I aim to build agents that can reason about scientific problems, write and execute code, and use specialized tools with traceable decisions.
+My research interests lie in **AI and agents for biomedical science**. I aim to build models that learn from biological and clinical data to help us understand biological systems and predict their behavior, and agents that reason, use scientific tools, and conduct computational experiments to advance scientific discovery.
 
 Contact: [wangzr0@zju.edu.cn](mailto:wangzr0@zju.edu.cn) · [wangzr519@gmail.com](mailto:wangzr519@gmail.com)
 
@@ -22,6 +22,7 @@ Contact: [wangzr0@zju.edu.cn](mailto:wangzr0@zju.edu.cn) · [wangzr519@gmail.com
 
 # News
 
+- *2026.10* Our preprint [**A world model simulates the latent dynamics of human health**](https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v3) (HealthFlux) is now available on medRxiv. Many thanks to **Kejun Ying**, **Tony Wyss-Coray**, and all co-authors for their guidance and support.
 - *2026.09* Released [**ALPD — Agentic Loop for Protein Design**](https://github.com/ziiroo1126/Agentic-Loop-for-Protein-Design), with structural feedback and traceable agent decisions. [Project Page](https://ziiroo1126.github.io/Agentic-Loop-for-Protein-Design/)
 - *2026.08* Our work [ABLE](https://arxiv.org/abs/2606.07524) was accepted to the main conference of **EMNLP 2026** as an **Oral** presentation.
 - *2026.08* We released [EpiBench](https://arxiv.org/abs/2608.06022), together with its 1,609-sample benchmark on [Hugging Face](https://huggingface.co/datasets/oteam/EpiBench).
@@ -61,7 +62,7 @@ Contact: [wangzr0@zju.edu.cn](mailto:wangzr0@zju.edu.cn) · [wangzr519@gmail.com
 
 *medRxiv preprint 2026.09.19.26363460 (v2), 2026.*
 
-[Paper](https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v2.full) · [DOI](https://doi.org/10.64898/2026.09.19.26363460)
+[Paper](https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v2.full) · [DOI](https://doi.org/10.64898/2026.09.19.26363460) · [中文报道](https://mp.weixin.qq.com/s/38w8v6APEdd8hQCnelgBoQ)
 
 </div></div>
 
@@ -111,6 +112,8 @@ Jinhang Xu, Qiyuan Zhu, Yujun Wu, **<u>Zirui Wang</u>**, Dongxu Zhang, Marcia Ti
 - **Visible-light-mediated Formal Carbene Insertion Reaction: Enantioselective Synthesis of 1,4-Dicarbonyl Compounds Containing an All-Carbon Quaternary Stereocenter.** Hua Zhang, Zheyuan Wang, **Zirui Wang**, Yunpeng Chu, Shuncheng Wang, Xin-Ping Hui. *ACS Catalysis*, 2022. [[DOI]](https://doi.org/10.1021/acscatal.2c00064)
 
 # Experience
+
+- **Visiting Scholar, [Stanford University](https://lab.kejunying.com/#people)** · *Mar. 2026 – Present*<br>
 
 - **AI Algorithm Engineer, [Valhalla Technology (Startup)](https://www.valhalla.science/)** · *Mar. 2026 – Present*<br>
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zirui Wang"
-description              : "Coding agent post-training, agent data, and training-evaluation loops for scientific discovery."
+description              : "AI and Agents for <strong>biomedical science</strong>"
 url                      : "https://ziiroo1126.github.io"
 baseurl                  : ""
 repository               : "ziiroo1126/ziiroo1126.github.io"
@@ -26,9 +26,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zirui Wang"
   avatar           : "images/zirui.jpg"
-  bio              : "AI Algorithm Engineer at Valhalla Technology"
+  bio              : "Visiting scholar at Stanford University"
   location         :
-  employer         : "Valhalla Technology"
   pubmed           : 
   googlescholar    :
   email            : "wangzr0@zju.edu.cn"
