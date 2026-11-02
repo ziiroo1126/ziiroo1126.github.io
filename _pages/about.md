@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-My name is **Zirui Wang (王 子睿)**. I am a **Visiting Scholar at** <a class="entity-mention entity-mention--stanford" href="https://lab.kejunying.com/#people"><span class="entity-icon entity-icon--stanford" aria-hidden="true"><img src="{{ '/images/logos/stanford.png' | relative_url }}" alt=""></span>Stanford University</a>, working primarily on **AI for aging and longevity** under the supervision of [Kejun Ying](https://kejunying.com/). I received my M.S. in Theoretical and Computational Chemistry from <a class="entity-mention entity-mention--zhejiang" href="https://www.zju.edu.cn/"><span class="entity-icon entity-icon--zhejiang" aria-hidden="true"><img src="{{ '/images/logos/zhejiang.png' | relative_url }}" alt=""></span>Zhejiang University</a>, advised by [Prof. Linjun Wang](https://person.zju.edu.cn/linjunwang), and my B.S. in Chemistry (National Class of Foundational Theory) from <a class="entity-mention entity-mention--lanzhou" href="https://www.lzu.edu.cn/index.htm"><span class="entity-icon" aria-hidden="true"><img src="{{ '/images/logos/lanzhou.svg' | relative_url }}" alt=""></span>Lanzhou University</a>.
+My name is **Zirui Wang (王 子睿)**. I am a **Visiting Student at** <a class="entity-mention entity-mention--stanford" href="https://lab.kejunying.com/#people"><span class="entity-icon entity-icon--stanford" aria-hidden="true"><img src="{{ '/images/logos/stanford.png' | relative_url }}" alt=""></span>Stanford University</a>, working primarily on **AI for aging and longevity** under the supervision of [Kejun Ying](https://kejunying.com/). I received my M.S. in Theoretical and Computational Chemistry from <a class="entity-mention entity-mention--zhejiang" href="https://www.zju.edu.cn/"><span class="entity-icon entity-icon--zhejiang" aria-hidden="true"><img src="{{ '/images/logos/zhejiang.png' | relative_url }}" alt=""></span>Zhejiang University</a>, advised by [Prof. Linjun Wang](https://person.zju.edu.cn/linjunwang), and my B.S. in Chemistry (National Class of Foundational Theory) from <a class="entity-mention entity-mention--lanzhou" href="https://www.lzu.edu.cn/index.htm"><span class="entity-icon" aria-hidden="true"><img src="{{ '/images/logos/lanzhou.svg' | relative_url }}" alt=""></span>Lanzhou University</a>.
 
 My research interests lie in **AI and agents for biomedical science**. I aim to build models that learn from biological and clinical data to help us understand biological systems and predict their behavior, and agents that reason, use scientific tools, and conduct computational experiments to advance scientific discovery.
 
@@ -112,7 +112,7 @@ Jinhang Xu, Qiyuan Zhu, Yujun Wu, **<u>Zirui Wang</u>**, Dongxu Zhang, Marcia Ti
 
 # Experience
 
-- **Visiting Scholar, [Stanford University](https://lab.kejunying.com/#people)** · *Mar. 2026 – Present*<br>
+- **Visiting Student, [Stanford University](https://lab.kejunying.com/#people)** · *Mar. 2026 – Present*<br>
 
 - **Algorithm Engineer, Zhejiang University — Blockchain and Data Security Research Institute** · *Jul. 2025 – Mar. 2026*<br>
 
